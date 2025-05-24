@@ -21,6 +21,7 @@ To enable the chatbot, add the following scripts inside the public/index.html fi
 
 
 <script src="https://cdn.botpress.cloud/webchat/v2.5/inject.js"></script>
+
 <script src="https://files.bpcontent.cloud/2025/05/24/00/20250524001048-L44QRPFS.js"></script>
 
 This project demonstrates practical skills in React development, UI design, and third-party integration, making it a great showcase for an internship portfolio.
